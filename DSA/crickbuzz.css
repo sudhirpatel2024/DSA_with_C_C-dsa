@@ -1,0 +1,51 @@
+li {
+    display: inline;
+    float: left;
+}
+
+
+
+.class1 a {
+    display: inline-block;
+    color: rgb(252, 255, 252);
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+li a:hover {
+    background-color: rgb(147, 133, 211);
+}
+
+li input:hover {
+    background-color: rgb(147, 133, 211);
+}
+
+.first {
+    display: flex;
+    justify-content: flex-start;
+    background-color: #86db88;
+}
+
+.class2 a {
+    display: inline-block;
+    color: rgb(252, 255, 252);
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.first2 {
+    display: flex;
+    justify-content: flex-start;
+    background-color: #404740;
+}
+
+.raju {
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+    margin: 10px;
+}
